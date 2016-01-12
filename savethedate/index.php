@@ -15,7 +15,7 @@
         </div>
         <div class="bottom row">
             <div class="col-4"><img src="images/klos-morocco.jpg"/></div>
-            <div class="col-4"><img src="images/klos-video-frame-button.jpg"/></div>
+            <div class="col-4"><img src="images/klos-video-frame.jpg"/></div>
             <div class="col-4"><img src="images/klos-garden.jpg"></div>
         </div>
     </div>
