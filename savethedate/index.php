@@ -6,6 +6,7 @@
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
+    <?php include_once("analyticstracking.php")?>
     <div class="container">
         <div class="top row"></div>
         <div class="middle row">
