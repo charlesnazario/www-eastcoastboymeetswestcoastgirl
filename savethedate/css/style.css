@@ -59,6 +59,7 @@ html, body, div, h1, h2, h3, h4, h5, p {
 [class*="col-"] {
     float: left;
     width: 100%;
+    border: 5px solid #262626;
 }
 
 .pos1 {
@@ -66,7 +67,6 @@ html, body, div, h1, h2, h3, h4, h5, p {
     background-position: left bottom;
     background-size: cover;
     background-repeat: no-repeat;
-    margin-bottom: 5px;
     height: 220px;
 }
 
@@ -75,7 +75,6 @@ html, body, div, h1, h2, h3, h4, h5, p {
     background-position: left bottom;
     background-size: cover;
     background-repeat: no-repeat;
-    margin-bottom: 5px;
     height: 220px;
 }
 
@@ -132,10 +131,6 @@ p {
 
     .middle {
         height: 200px;
-    }
-
-    .pos1, .pos3 {
-        margin-right: 5px;
     }
 
     h1 {
