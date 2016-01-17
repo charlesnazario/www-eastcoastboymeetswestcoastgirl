@@ -172,7 +172,15 @@ p {
     }
 
     .top img {
-        width: 300px;
-        height: 300px;
+        width: 250px;
+        height: 250px;
+    }
+
+    h1 {
+        font-size: 4em;
+    }
+
+    p {
+        font-size: 2em;
     }
 }
