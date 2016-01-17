@@ -30,6 +30,8 @@ html, body, div, h1, h2, h3, h4, h5, p {
     height: 400px;
     background-image: url("../images/seattle-skyline-mobile.jpg");
     background-position: center top;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .middle {
