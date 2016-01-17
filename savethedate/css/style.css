@@ -48,6 +48,7 @@ html, body, div, h1, h2, h3, h4, h5, p {
 .bottom {
     width: 100%;
     background-color: #262626;
+    border: 2.5px solid #262626;
 }
 
 .row:after {
@@ -59,7 +60,7 @@ html, body, div, h1, h2, h3, h4, h5, p {
 [class*="col-"] {
     float: left;
     width: 100%;
-    border: 5px solid #262626;
+    border: 2.5px solid #262626;
     border-collapse: collapse;
 }
 
