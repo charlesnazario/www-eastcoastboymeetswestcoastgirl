@@ -65,7 +65,7 @@ html, body, div, h1, h2, h3, h4, h5, p {
 }
 
 .pos1 {
-    background-image: url("../images/seattle-market-mobile.jpg");
+    background-image: url("../images/seattle-market.jpg");
     background-position: left bottom;
     background-size: cover;
     background-repeat: no-repeat;
@@ -73,7 +73,7 @@ html, body, div, h1, h2, h3, h4, h5, p {
 }
 
 .pos2 {
-    background-image: url("../images/seattle-ferriswheel-mobile.jpg");
+    background-image: url("../images/seattle-ferriswheel.jpg");
     background-position: left bottom;
     background-size: cover;
     background-repeat: no-repeat;
@@ -81,7 +81,7 @@ html, body, div, h1, h2, h3, h4, h5, p {
 }
 
 .pos3 {
-    background-image: url("../images/seattle-gumwall-mobile.jpg");
+    background-image: url("../images/seattle-gumwall.jpg");
     background-position: right bottom;
     background-size: cover;
     background-repeat: no-repeat;
