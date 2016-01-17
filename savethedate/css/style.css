@@ -28,8 +28,8 @@ html, body, div, h1, h2, h3, h4, h5, p {
 .top {
     width: 100%;
     height: 400px;
-    background-image: url("../images/seattle-skyline-mobile@2x.jpg");
-    background-position: center;
+    background-image: url("../images/seattle-skyline-mobile.jpg");
+    background-position: center top;
 }
 
 .middle {
