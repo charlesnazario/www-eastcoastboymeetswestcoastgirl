@@ -48,7 +48,6 @@ html, body, div, h1, h2, h3, h4, h5, p {
 .bottom {
     width: 100%;
     background-color: #262626;
-    padding: 5px;
 }
 
 .row:after {
@@ -66,6 +65,7 @@ html, body, div, h1, h2, h3, h4, h5, p {
     background-position: left bottom;
     background-size: cover;
     background-repeat: no-repeat;
+    margin-bottom: 5px;
     height: 220px;
 }
 
@@ -74,12 +74,13 @@ html, body, div, h1, h2, h3, h4, h5, p {
     background-position: left bottom;
     background-size: cover;
     background-repeat: no-repeat;
+    margin-bottom: 5px;
     height: 220px;
 }
 
 .pos3 {
     background-image: url("../images/seattle-ferriswheel-mobile.jpg");
-    background-position: left bottom;
+    background-position: right bottom;
     background-size: cover;
     background-repeat: no-repeat;
     height: 220px;
