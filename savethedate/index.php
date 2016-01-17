@@ -17,7 +17,7 @@
 <body>
     <?php include_once("analyticstracking.php")?>
     <div class="container">
-        <div class="top row"><a href="https://vimeo.com/152036839" class="fresco"><img src="play-button-mobile.png"></a></div>
+        <div class="top row"><a href="https://vimeo.com/152036839" class="fresco"><img src="../images/play-button-mobile.png"></a></div>
         <div class="middle row">
             <h1>Save the Date</h1>
             <p>August 27, 2016</p>
