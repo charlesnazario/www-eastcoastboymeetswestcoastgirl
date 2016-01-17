@@ -25,7 +25,7 @@
                      autoplay: 1,
                      rel: 0
                    }
-               "><img src="images/play-button-mobile.png"></a>
+               "><img src="images/play-button.png"></a>
         </div>
         <div class="middle row">
             <h1>Save the Date</h1>
