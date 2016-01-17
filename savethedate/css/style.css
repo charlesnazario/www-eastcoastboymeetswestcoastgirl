@@ -176,6 +176,14 @@ p {
         height: 250px;
     }
 
+    .pos2 {
+        background-position: right bottom;
+    }
+
+    .pos3 {
+        background-position: left top;
+    }
+
     h1 {
         font-size: 4em;
     }
