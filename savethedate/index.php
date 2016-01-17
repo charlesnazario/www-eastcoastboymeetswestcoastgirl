@@ -2,15 +2,17 @@
 <html>
 <head lang="en">
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex,nofollow" />
+
     <title>Save the Date | East Coast Boy Meets West Coast Girl</title>
+
+    <link rel="stylesheet" type="text/css" href="css/style.css">
 
     <!-- Support for fresco video lightbox -->
     <script type="text/javascript" src="http://code.jquery.com/jquery-1.12.0.min.js"></script>
     <script type="text/javascript" src="js/fresco/fresco.js"></script>
     <link rel="stylesheet" type="text/css" href="css/fresco/fresco.css" />
-
-    <link rel="stylesheet" type="text/css" href="css/style.css">
-    <meta name="robots" content="noindex,nofollow" />
 </head>
 <body>
     <?php include_once("analyticstracking.php")?>
