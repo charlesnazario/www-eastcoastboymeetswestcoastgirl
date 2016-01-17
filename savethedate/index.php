@@ -21,7 +21,10 @@
             <a href="https://www.youtube.com/watch?v=hizBDKcchks"
                class="fresco"
                data-fresco-options="
-                  youtube: { autoplay: 1 }
+                  youtube: {
+                     autoplay: 0,
+                     rel: 0
+                   }
                "><img src="images/play-button-mobile.png"></a>
         </div>
         <div class="middle row">
