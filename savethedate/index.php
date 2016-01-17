@@ -24,9 +24,10 @@
             <p>Seattle, Washington</p>
         </div>
         <div class="bottom row">
-            <div class="col-4"></div>
-            <div class="col-4"></div>
-            <div class="col-4"></div>
+            <div class="col-4 pos1"></div>
+            <div class="col-4 pos2"></div>
+            <div class="col-4 pos3"></div>
+            <div class="col-4 pos4"></div>
         </div>
     </div>
 </body>
