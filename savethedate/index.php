@@ -18,11 +18,11 @@
     <?php include_once("analyticstracking.php")?>
     <div class="container">
         <div class="top row">
-            <a href="https://www.youtube.com/watch?v=hizBDKcchks&autoplay=1"
+            <a href="https://www.youtube.com/watch?v=hizBDKcchks"
                class="fresco"
                data-fresco-options="
                   youtube: {
-                     autoplay: 0,
+                     autoplay: 1,
                      rel: 0
                    }
                "><img src="images/play-button-mobile.png"></a>
