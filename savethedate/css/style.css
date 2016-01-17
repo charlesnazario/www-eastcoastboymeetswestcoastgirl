@@ -50,3 +50,9 @@ html, body, div, h1, h2, h3, h4, h5, p {
     min-height: 200px;
     background-color: red;
 }
+
+@media screen and (orientation: landscape) {
+    .top {
+        height: 350px;
+    }
+}
