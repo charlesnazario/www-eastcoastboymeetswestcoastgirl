@@ -51,6 +51,21 @@ html, body, div, h1, h2, h3, h4, h5, p {
     background-color: red;
 }
 
+/* Style elements */
+h1 {
+    font-size: 2em;
+    font-family: 'Tangerine', cursive;
+    color: azure;
+    margin: 10px;
+}
+
+p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1em;
+    color: azure;
+    margin: 10px;
+}
+
 @media screen and (orientation: landscape) {
     .top {
         height: 350px;
