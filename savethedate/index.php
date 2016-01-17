@@ -23,6 +23,8 @@
                data-fresco-options="
                   youtube: {
                      autoplay: 1,
+                     modestbranding: 1,
+                     showinfo: 0,
                      rel: 0
                    }
                "><img src="images/play-button.png"></a>
